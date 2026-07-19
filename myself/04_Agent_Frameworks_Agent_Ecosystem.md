@@ -5,7 +5,6 @@
 
 This section introduces the broader **AI agent ecosystem**, explains what **agent frameworks** are, and discusses why they exist.
 
-The lecture emphasizes an important point:
 
 > **You do not need an agent framework to build an AI agent.**
 
